@@ -3,8 +3,10 @@
 The client for monicore.
 
 ## Prerequisites
-Be sure to have vagrant up 
-[https://github.com/playgrunge/monicore-vagrant](monicore-vagrant)
+* Be sure to have vagrant up [https://github.com/playgrunge/monicore-vagrant](monicore-vagrant)
+
+## Tools
+* Make sur to install [https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi](Ember Inspector for chrome)
 
 ## Installation
 
