@@ -3,16 +3,13 @@
 The client for monicore.
 
 ## Prerequisites
-
-You will need the following things properly installed on your computer.
-
-* [Git](http://git-scm.com/)
-* [Node.js](http://nodejs.org/) (with NPM) and [Bower](http://bower.io/)
+Be sure to have vagrant up 
+[https://github.com/playgrunge/monicore-vagrant](monicore-vagrant)
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* change into the new directory
+* `git clone https://github.com/playgrunge/monicore-ember.git`
+* `cd monicore-ember`
 * `npm install`
 * `bower install`
 
