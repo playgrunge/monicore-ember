@@ -43,5 +43,9 @@ module.exports = function(environment) {
 
   }
 
+  ENV.contentSecurityPolicy = {
+  'connect-src': "'all' 'unsafe-inline' http://192.171.0.120:3001"
+}
+
   return ENV;
 };
